@@ -183,6 +183,10 @@ body {
     margin-right: 100px;
 }
 
+.align-horizontal {
+    display: flex;
+}
+
 .post-footer {
     display: flex;
     justify-content: center;
