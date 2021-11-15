@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import SearchBar from './SearchBar';
-import ImageList from './imageList';
+import ImageList from './ImageList';
 
 import axios from 'axios';
 

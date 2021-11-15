@@ -39,27 +39,24 @@ class SearchBar extends React.Component {
                                 data-html={true}
                                 insecure={true}
                             >
-                                <p>
+                                <span>
                                     <p>
-                                        1) In the input textbox search for an
-                                        image like 'cat' or 'dog'
+                                        1) Enter a search query like 'cat' or
+                                        'dog'
                                     </p>
                                     <p>
-                                        2) Click the search button to the right
-                                        or press Enter
-                                    </p>
-                                    <p>3) Wait for the images to load </p>
-                                    <p>4) Click the image you like </p>
-                                    <p>
-                                        5) Once you click an image, the image
-                                        description will show up below the input
-                                        text box{' '}
+                                        2) Press Enter or Click the search
+                                        button and wait for the images to load
                                     </p>
                                     <p>
-                                        6) Once you are done selecting, click
-                                        "Submit Post"
+                                        3) Click any image. The image
+                                        description will show up under "Image
+                                        Selected"{' '}
                                     </p>
-                                </p>
+                                    <p>
+                                        4) After selecting, click "Submit Post"
+                                    </p>
+                                </span>
                             </ReactTooltip>
                             <input
                                 className="inputStyle"

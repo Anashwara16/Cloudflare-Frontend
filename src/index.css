@@ -59,19 +59,19 @@ body {
     min-height: 100px;
 }
 
-.task {
+.post {
     background: white;
-    border: 1px solid green;
+    border: 2px solid green;
     margin: 5px;
     padding: 10px 20px;
     cursor: pointer;
 }
 
-.task.reminder {
+.post.reminder {
     border-left: 5px solid green;
 }
 
-.task h3 {
+.post h3 {
     display: flex;
     align-items: center;
     justify-content: space-between;

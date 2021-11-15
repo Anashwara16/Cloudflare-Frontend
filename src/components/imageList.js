@@ -1,5 +1,5 @@
 import React from 'react';
-import './imageList.css';
+import './ImageList.css';
 import ImageCard from './ImageCard';
 import { useState } from 'react';
 
