@@ -1,3 +1,5 @@
+Implemented social media website with React as the frontend, Cloudflare Workers as the backend and Workers KV store as the database.
+
 # React Frontend for CloudFlare (Social Media App)
 
 
